@@ -1,0 +1,15 @@
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.csprojAssemblyReference.cache
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.ChessForm.resources
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.ResolveComReference.cache
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\bin\Debug\ChessGame.exe.manifest
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\bin\Debug\ChessGame.application
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.exe.manifest
+C:\Users\hackeru\RoyHadad\ChessGame\ChessGame\obj\Debug\ChessGame.application
